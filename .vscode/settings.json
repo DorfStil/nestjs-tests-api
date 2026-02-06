@@ -1,0 +1,9 @@
+{
+  "eslint.useFlatConfig": true,
+  "eslint.workingDirectories": ["./"],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "git.enabled": true,
+  "git.decorations.enabled": true,
+  "explorer.decorations.colors": true,
+  "explorer.decorations.badges": true
+}
